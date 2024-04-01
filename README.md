@@ -1,4 +1,4 @@
-# Contact_Management_Program\
+# Contact_Management_Program
 
 # ✏️ 교육과제 1~3 차 과제 ✏️
 ### 연락처 관리 프로그램 구축
